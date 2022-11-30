@@ -1,7 +1,3 @@
-- 🔭 I’m currently working on automated tests and front-end development
-- 💬 Ask me about music and games :)
-- ⚡ Fun fact: I'm not spider-man
-
 <div align="center">
   <a href="https://github.com/andreycmartins">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreycmartins&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -23,6 +19,7 @@
 <hr style="border: 1px solid black">
  
 <div align="center"> 
+  <h1>MY SOCIAL LINKS</h1>
   <a href = "mailto:andryebr45@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andreycmartins" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
