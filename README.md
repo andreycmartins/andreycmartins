@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="">
 </div>
 
-<hr>
+<hr style="border: 1px solid black">
  
 <div align="center"> 
   <a href = "mailto:andryebr45@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
