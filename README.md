@@ -15,8 +15,6 @@
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="">
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="">
 </div>
-  
-  <h1></h1>
    
   <div align="center"> 
       <h1>MY SOCIAL LINKS</h1>
