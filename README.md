@@ -26,6 +26,7 @@
 
 </div>
   <h1></h1>
+
   <div align="center"> 
     <p style="font-size: 32px">Contact</p>
     <a href = "mailto:andreybr45@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
